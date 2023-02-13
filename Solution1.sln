@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "mirai", "mirai", "{86426C61-C789-45C4-A9D7-6FC96728104F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIRAIQQ", "MIRAIQQ\MIRAIQQ.csproj", "{FDC29D7C-79EE-47AC-9E99-12925D3C1CB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FDC29D7C-79EE-47AC-9E99-12925D3C1CB2} = {86426C61-C789-45C4-A9D7-6FC96728104F}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDC29D7C-79EE-47AC-9E99-12925D3C1CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC29D7C-79EE-47AC-9E99-12925D3C1CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC29D7C-79EE-47AC-9E99-12925D3C1CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC29D7C-79EE-47AC-9E99-12925D3C1CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
